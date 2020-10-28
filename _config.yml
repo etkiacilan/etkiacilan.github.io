@@ -1,15 +1,11 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Etki Acilan
+url: "https://etkiacilan.github.io/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,7 +13,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
