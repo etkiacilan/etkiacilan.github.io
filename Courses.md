@@ -1,4 +1,4 @@
-## Teaching Assistant For:
+## Teaching Assistant For
 
 [Power System Analysis I](https://catalog.metu.edu.tr/course.php?course_code=5670471) 
 
@@ -25,7 +25,7 @@ Semester | Course Name
 
 Semester | Course Name 
 -----|-------|--------
-2018-2019 Spring | [Power System Analysis II](https://catalog.metu.edu.tr/course.php?course_code=5670472) 
+2018-2019 Spring                    | [Power System Analysis II](https://catalog.metu.edu.tr/course.php?course_code=5670472) 
 2018-2019 Spring | [Nonlinear Control Systems](https://catalog.metu.edu.tr/course.php?course_code=5670404) 
 2018-2019 Fall | [Distribution Systems](https://catalog.metu.edu.tr/course.php?course_code=5670474) 
 2018-2019 Fall | [Power System Analysis I](https://catalog.metu.edu.tr/course.php?course_code=5670471) 
