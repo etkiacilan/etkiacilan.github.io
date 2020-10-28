@@ -13,7 +13,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "https://etkiacilan.github.io/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
