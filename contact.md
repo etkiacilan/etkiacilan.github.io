@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [etki@metu.edu.tr](mailto:etki@metu.edu.tr)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Middle East Technical University, Electrical and Electronics Engineering Department
+> E-101
 >
-> London
+> Ankara
 >
-> United Kingdom
+> Turkey
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
