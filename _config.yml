@@ -18,3 +18,5 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Courses"
+   link: "Courses"
