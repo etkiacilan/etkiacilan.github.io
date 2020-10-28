@@ -17,8 +17,11 @@ My research interests include Power System Dynamic State Estimation and Power Pl
 ## Teaching Assistant For:
 
 [EE471 Power System Analysis I](https://catalog.metu.edu.tr/course.php?course_code=5670471) 
+
 [EE472 Power System Analysis II](https://catalog.metu.edu.tr/course.php?course_code=5670472) 
+
 [EE475 High Voltage Techniques I)](https://catalog.metu.edu.tr/course.php?course_code=5670475) 
+
 [EE476 High Voltage Techniques II](https://catalog.metu.edu.tr/course.php?course_code=5670476) 
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
