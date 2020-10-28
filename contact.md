@@ -7,13 +7,11 @@ is_contact: true
 
 ---
 
-## Mailing Address
+## Office
 
-> E-101, Middle East Technical University Electrical and Electronics Engineering Department 
-> 
-> Ankara
->
-> Turkey
+E-101 
+Electrical and Electronics Engineering Department 
+Middle East Technical University
 
 ---
 
