@@ -8,7 +8,7 @@ layout: default
 
 I am a master's student studying at Middle East Technical University with a major in Electrical Engineering. I am also a Research and Teaching Assistant at the same department.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+You can find my academic page on [eee.metu.edu.tr](https://eee.metu.edu.tr/personel/etki-acilan)
 
 ## Research Interest
 
