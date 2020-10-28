@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="etki_removebg2.png">
 
-I am a master's student studying at Middle East Technical University with a major in Electrical Engineering under supervision of Murat Gol. I am also a Research and Teaching Assistant at the same department.
+I am a master's student studying under the supervision of [Murat Gol](https://eee.metu.edu.tr/tr/personel/murat-gol) at Middle East Technical University with a major in Electrical Engineering. I am also a Research and Teaching Assistant at the same department.
 
 You can find my METU profile page on [eee.metu.edu.tr](https://eee.metu.edu.tr/personel/etki-acilan)
 
