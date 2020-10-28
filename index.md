@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="etki3.png">
 
-I am a master's student studying at Middle East Technical University with a major in Electrical Engineering. I am also a Research and Teaching Assistant at the same department.
+I am a master's student studying at Middle East Technical University with a major in Electrical Engineering under supervision of Murat Gol. I am also a Research and Teaching Assistant at the same department.
 
 You can find my METU profile page on [eee.metu.edu.tr](https://eee.metu.edu.tr/personel/etki-acilan)
 
@@ -16,10 +16,10 @@ My research interests include Power System Dynamic State Estimation and Power Pl
 
 ## Teaching Assistant For:
 
-EE471[https://catalog.metu.edu.tr/course.php?course_code=5670471] Power System Analysis I
-EE472[https://catalog.metu.edu.tr/course.php?course_code=5670472] Power System Analysis II
-EE475[https://catalog.metu.edu.tr/course.php?course_code=5670475] High Voltage Techniques I
-EE476[https://catalog.metu.edu.tr/course.php?course_code=5670476] High Voltage Techniques II
+[EE471 Power System Analysis I](https://catalog.metu.edu.tr/course.php?course_code=5670471) 
+[EE472 Power System Analysis II](https://catalog.metu.edu.tr/course.php?course_code=5670472) 
+[EE475 High Voltage Techniques I)](https://catalog.metu.edu.tr/course.php?course_code=5670475) 
+[EE476 High Voltage Techniques II](https://catalog.metu.edu.tr/course.php?course_code=5670476) 
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
