@@ -10,6 +10,12 @@ I am a master's student studying at Middle East Technical University with a majo
 
 You can find my METU profile page on [eee.metu.edu.tr](https://eee.metu.edu.tr/personel/etki-acilan)
 
+## Education
+
+M.Sc, Electrical and Electronics Engineering, METU, 2019 (ongoing)
+B.Sc, Electrical and Electronics Engineering, METU, 2015-2019
+Vefa Lisesi, 2015
+
 ## Research Interests
 
 My research interests include Power System Dynamic State Estimation and Power Plant Model Validation and Calibration.
@@ -28,21 +34,23 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 ## Relevant Courses
 
-Semester | Course Name | Grade
+Semester | Course Name 
 -----|-------|--------
-2019-2020 Spring (Pandemic Semester) | System Identification and Adaptive Control  | AA
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Grad 2020-2021 Fall | [Optimization]
+Grad 2020-2021 Fall | [Electrical Power Quality, Monitoring and Improvement]
+Grad 2019-2020 Spring (Pandemic Semester) | [System Identification and Adaptive Control]
+Grad 2019-2020 Spring (Pandemic Semester) | [Power System Stability and Dynamics]
+Grad 2019-2020 Fall | [Power Systems Real-Time Monitoring and Control]
+Grad 2019-2020 Fall | [Economic Operation of Power Systems]
+Grad 2019-2020 Fall | [Linear Systems Theory]
 
-Here is a horizontal rule
+Undergrad 2018-2019 Spring | [Power System Analysis II]
+Undergrad 2018-2019 Spring | [Nonlinear Control Systems]
+Undergrad 2018-2019 Fall | [Distribution Systems]
+Undergrad 2018-2019 Fall | [Power System Analysis I]
+Undergrad 2017-2018 Spring | [Electromechanical Energy Conversion II]
+Undergrad 2017-2018 Spring | [Feedback Systems]
+Undergrad 2017-2018 Fall | [Electrical Equipment and Applications]
+Undergrad 2017-2018 Fall | [Electromechanical Energy Conversion I]
 
----
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
