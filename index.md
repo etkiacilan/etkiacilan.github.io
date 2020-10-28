@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="etki3.png">
+<img class="profile-picture" src="etki_removebg2.png">
 
 I am a master's student studying at Middle East Technical University with a major in Electrical Engineering under supervision of Murat Gol. I am also a Research and Teaching Assistant at the same department.
 
