@@ -16,7 +16,8 @@ nav:
    link: "https://etkiacilan.github.io/"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Courses"
+   link: "Courses"   
  - name: "Contact"
    link: "contact"
- - name: "Courses"
-   link: "Courses"
+
