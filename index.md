@@ -10,19 +10,24 @@ I am a master's student studying at Middle East Technical University with a majo
 
 You can find my METU profile page on [eee.metu.edu.tr](https://eee.metu.edu.tr/personel/etki-acilan)
 
-## Research Interest
+## Research Interests
 
 My research interests include Power System Dynamic State Estimation and Power Plant Model Validation and Calibration.
 
-## Typography
+## Teaching Assistant For:
+
+EE471[https://catalog.metu.edu.tr/course.php?course_code=5670471] Power System Analysis I
+EE472[https://catalog.metu.edu.tr/course.php?course_code=5670472] Power System Analysis II
+EE475[https://catalog.metu.edu.tr/course.php?course_code=5670475] High Voltage Techniques I
+EE476[https://catalog.metu.edu.tr/course.php?course_code=5670476] High Voltage Techniques II
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
+## Relevant Courses
 
-Year | Award | Category
+Semester | Course Name | Grade
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2019-2020 Spring (Pandemic Semester) | System Identification and Adaptive Control  | AA
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
