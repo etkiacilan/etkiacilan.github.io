@@ -3,7 +3,7 @@ url: "https://etkiacilan.github.io/"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./odtu_logo.jpg"
+#ins_logo: "./odtu_logo.jpg"
 
 tracking_id: #
 
