@@ -13,7 +13,9 @@ You can find my METU profile page on [eee.metu.edu.tr](https://eee.metu.edu.tr/p
 ## Education
 
 M.Sc, Electrical and Electronics Engineering, METU, 2019 (ongoing)
+
 B.Sc, Electrical and Electronics Engineering, METU, 2015-2019
+
 Vefa Lisesi, 2015
 
 ## Research Interests
