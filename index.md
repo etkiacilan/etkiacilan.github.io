@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="etki3.png">
 
-Hiii! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am a master's student studying at Middle East Technical University with a major in Electrical Engineering. I am also a Research and Teaching Assistant at the same department.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
