@@ -10,6 +10,15 @@ I am a master's student studying under the supervision of [Murat Gol](https://ee
 
 You can find my METU profile page on [eee.metu.edu.tr](https://eee.metu.edu.tr/personel/etki-acilan)
 
+
+
+
+
+
+
+
+
+
 ## Education
 
 M.Sc, Electrical and Electronics Engineering, METU, 2019 (ongoing)
