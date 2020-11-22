@@ -5,7 +5,7 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./odtu_logo.jpg"
 
-tracking_id: 2173085625
+tracking_id: G-K49YQ4LS1J
 
 sass:
     style: compressed
