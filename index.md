@@ -17,7 +17,7 @@ B.Sc, Electrical and Electronics Engineering, METU, 2015-2019
 
 ## Research Interests
 
-My research interests include Power System Dynamic State Estimation and Power Plant Model Validation and Calibration
+My current research interests include Power System Dynamic State Estimation and Power Plant Model Validation and Calibration.
 
 
 
