@@ -8,6 +8,7 @@
 
 [High Voltage Techniques II](https://catalog.metu.edu.tr/course.php?course_code=5670476) 
 
+[Electrical Equipment and Applications](https://catalog.metu.edu.tr/course.php?course_code=5670374) 
 
 ## Relevant Grad Courses
 
@@ -32,4 +33,9 @@ Semester | Course Name
 2017-2018 Spring | [Electromechanical Energy Conversion II](https://catalog.metu.edu.tr/course.php?course_code=5670362) 
 2017-2018 Spring | [Feedback Systems](https://catalog.metu.edu.tr/course.php?course_code=5670302) 
 2017-2018 Fall | [Electrical Equipment and Applications](https://catalog.metu.edu.tr/course.php?course_code=5670374) 
-2017-2018 Fall | [Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361) 
+2017-2018 Fall | [Electromechanical Energy Conversion I](https://catalog.metu.edu.tr/course.php?course_code=5670361)
+
+
+
+
+
